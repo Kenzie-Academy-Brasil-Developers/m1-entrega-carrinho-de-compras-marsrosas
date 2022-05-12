@@ -1,0 +1,58 @@
+
+main {
+    background-color: aliceblue;
+    background-color: rgb(228, 222, 222);
+    color: black;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 450px;
+    
+    
+    
+}
+
+ul{
+
+    list-style-type: none;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+
+li{
+
+    text-align: justify;
+    width: 500px;
+    display: inline-flex;
+    justify-content: space-around;
+    
+    
+    
+}
+
+button{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 50px;
+    color: white;
+    background-color: rgb(82, 164, 82);
+}
+
+section{
+    background-color: rgb(204, 239, 236);
+    height: 60px;
+    color: black;
+    display: block;
+}
+
+section2.box{
+    align-items: center;
+    display: flex;
+
+
+}
